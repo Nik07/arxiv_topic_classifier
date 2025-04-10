@@ -10,18 +10,7 @@ You can learn how to develop telegram bots using the `aiogram` framework in the 
 
 ## About the template
 
-### Used technology
-* Python 3.12;
-* aiogram 3.x (Asynchronous Telegram Bot framework);
-* aiogram_dialog (GUI framework for telegram bot);
-* dynaconf (Configuration Management for Python);
-* taskiq (Async Distributed Task Manager);
-* fluentogram (Internationalization tool in the Fluent paradigm);
-* Docker and Docker Compose (containerization);
-* PostgreSQL (database);
-* NATS (queue and FSM storage);
-* Redis (cache, taskiq result backend);
-* Alembic (database migrations with raw SQL).
+
 
 ### Structure
 
